@@ -7,7 +7,7 @@ import { tap, take } from 'rxjs';
 
 
 // API URL for fetching data
-const apiUrl = 'https://myflixapp-cw0r.onrender.com/';
+const apiUrl = 'https://myflixparttwo-bcd374c2380d.herokuapp.com/movies';
 
 /**
  * Service for fetching data from the API.
